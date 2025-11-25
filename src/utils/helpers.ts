@@ -4,7 +4,6 @@ import * as moment from "moment";
 @Injectable()
 export class Helpers {
   constructor() { }
-
   
   /**
    * Remove special character form string
