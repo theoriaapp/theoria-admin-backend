@@ -5,6 +5,7 @@ import * as moment from "moment";
 export class Helpers {
   constructor() { }
 
+  
   /**
    * Remove special character form string
    * @param str 
